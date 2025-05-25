@@ -1,0 +1,6 @@
+flask==2.2.5
+celery==5.2.7
+redis==4.5.1
+torch==2.0.0
+transformers==4.35.0
+open3d==0.17.0
